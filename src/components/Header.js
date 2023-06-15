@@ -2,9 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 export const Header = (props) => {
-    // const navstyle={"backgroundColor": "rgb(205, 156, 97)"};
-
-
     return (
         <nav className="navbar navbar-expand-lg bg-body-tertiary border-bottom" >
             <div className="container-fluid">
